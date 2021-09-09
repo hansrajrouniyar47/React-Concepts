@@ -48,5 +48,8 @@ function App() {
 
 export default App;
 
+//if props are immutable how do we maintain component data that might change over time
+
+
 
 
