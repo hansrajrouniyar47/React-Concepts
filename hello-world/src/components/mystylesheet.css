@@ -1,0 +1,12 @@
+.primary{
+  background-color: black;
+  color: aqua;
+}
+.secondary{
+  background-color: brown;
+  color: white;
+}
+.fontsizec{
+  font-size: larger;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
