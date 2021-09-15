@@ -38,6 +38,6 @@ const heading = {
 }
 
 //then include that as style property
-<h1 style={heading}>inline</h1>
+{/* <h1 style={heading}>inline</h1> */}
 
 
