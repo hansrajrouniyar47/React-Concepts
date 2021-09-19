@@ -10,12 +10,13 @@ import Namelist from './components/Namelist';
 import StyleSheet from './components/StyleSheet';
 import Form from './components/Form'
 import FragmentDemo from './components/FragmentDemo';
+import RefsDemo from './components/RefsDemo';
 
 
 function App() {
   return (
     <div className="App">
-    <FragmentDemo />
+    <RefsDemo />
     </div>
   );
 }
